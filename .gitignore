@@ -16,6 +16,8 @@ wheels/
 
 # Byte-compiled
 __pycache__/
+*.py[cod]
+*$py.class
 
 # Installer logs
 pip-log.txt
