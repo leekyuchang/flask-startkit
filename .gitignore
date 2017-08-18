@@ -1,0 +1,38 @@
+### Python ###
+# DB files
+*.db
+
+# Distribution / packaging
+.Python
+env/
+build/
+dist/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+
+# Byte-compiled
+__pycache__/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# dotenv
+.env
+
+# virtualenv
+.venv/
+venv/
+ENV/
+env/
+
+# ide
+.vscode
